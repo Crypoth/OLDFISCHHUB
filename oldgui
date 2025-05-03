@@ -48,7 +48,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "FISCH | XWAREHUB - JOIN THE DISCORD!",
+    Title = "FISCH | XWAREHUB - (OLD UI)",
     SubTitle = "v1.8",
     TabWidth = 150,
     Size = UDim2.fromOffset(600, 400),
